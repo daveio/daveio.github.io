@@ -73,35 +73,35 @@ title: code.dave.io
       <th>
         <code>
           <a href="https://github.com/daveio/daveio.github.io">
-            daveio.github.io
+            code.dave.io
           </a>
         </code>
       </th>
       <th>
         <code>
           <a href="https://github.com/daveio/gotp/tree/gh-pages">
-            gotp
+            gotp.dave.io
           </a>
         </code>
       </th>
       <th>
         <code>
           <a href="https://github.com/daveio/updo/tree/gh-pages">
-            updo
+            updo.dave.io
           </a>
         </code>
       </th>
       <th>
         <code>
           <a href="https://github.com/daveio/zsh-gotp/tree/gh-pages">
-            zsh-gotp
+            zsh-gotp.dave.io
           </a>
         </code>
       </th>
       <th>
         <code>
           <a href="https://github.com/daveio/zsh-updo/tree/gh-pages">
-            zsh-updo
+            zsh-updo.dave.io
           </a>
         </code>
       </th>
