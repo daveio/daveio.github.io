@@ -138,6 +138,41 @@ title: code.dave.io
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <th>
+        <code>
+          <a href="https://github.com/daveio/braindump.dave.io">
+            braindump.dave.io
+          </a>
+        </code>
+      </th>
+      <th>
+        <code>
+          <a href="https://github.com/daveio/cv.dave.io">
+            cv.dave.io
+          </a>
+        </code>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://travis-ci.com/daveio/braindump.dave.io/branches" rel="nofollow">
+          <img src="https://travis-ci.com/daveio/braindump.dave.io.svg?branch=master" alt="braindump.dave.io master branch build status">
+        </a>
+      </td>
+      <td>
+        <a href="https://travis-ci.com/daveio/cv.dave.io/branches" rel="nofollow">
+          <img src="https://travis-ci.com/daveio/cv.dave.io.svg?branch=master" alt="cv.dave.io master branch build status">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 # About me
 
 I do the thing with the computer machine a lot.
