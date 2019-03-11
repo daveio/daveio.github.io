@@ -37,6 +37,13 @@ title: code.dave.io
           </a>
         </code>
       </th>
+      <th>
+        <code>
+          <a href="https://github.com/daveio/plasteel-jekyll-theme">
+            plasteel-jekyll-theme
+          </a>
+        </code>
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -61,6 +68,11 @@ title: code.dave.io
           <img src="https://travis-ci.com/daveio/zsh-updo.svg?branch=master" alt="zsh-updo master branch build status">
         </a>
       </td>
+      <td>
+        <a href="https://travis-ci.com/daveio/plasteel-jekyll-theme/branches" rel="nofollow">
+          <img src="https://travis-ci.com/daveio/plasteel-jekyll-theme.svg?branch=master" alt="plasteel-jekyll-theme master branch build status">
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -70,13 +82,6 @@ title: code.dave.io
 <table>
   <thead>
     <tr>
-      <th>
-        <code>
-          <a href="https://github.com/daveio/daveio.github.io">
-            code.dave.io
-          </a>
-        </code>
-      </th>
       <th>
         <code>
           <a href="https://github.com/daveio/gotp/tree/gh-pages">
@@ -105,15 +110,17 @@ title: code.dave.io
           </a>
         </code>
       </th>
+      <th>
+        <code>
+          <a href="https://github.com/daveio/plasteel-jekyll-theme/tree/gh-pages">
+            plasteel.dave.io
+          </a>
+        </code>
+      </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
-        <a href="https://travis-ci.com/daveio/daveio.github.io/branches" rel="nofollow">
-          <img src="https://travis-ci.com/daveio/daveio.github.io.svg?branch=master" alt="daveio.github.io master branch build status">
-        </a>
-      </td>
       <td>
         <a href="https://travis-ci.com/daveio/gotp/branches" rel="nofollow">
           <img src="https://travis-ci.com/daveio/gotp.svg?branch=gh-pages" alt="gotp gh-pages branch build status">
@@ -134,6 +141,11 @@ title: code.dave.io
           <img src="https://travis-ci.com/daveio/zsh-updo.svg?branch=gh-pages" alt="zsh-updo gh-pages branch build status">
         </a>
       </td>
+      <td>
+        <a href="https://travis-ci.com/daveio/plasteel-jekyll-theme/branches" rel="nofollow">
+          <img src="https://travis-ci.com/daveio/plasteel-jekyll-theme.svg?branch=gh-pages" alt="plasteel-jekyll-theme gh-pages branch build status">
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -141,6 +153,13 @@ title: code.dave.io
 <table>
   <thead>
     <tr>
+      <th>
+        <code>
+          <a href="https://github.com/daveio/daveio.github.io">
+            code.dave.io
+          </a>
+        </code>
+      </th>
       <th>
         <code>
           <a href="https://github.com/daveio/braindump.dave.io">
@@ -159,6 +178,11 @@ title: code.dave.io
   </thead>
   <tbody>
     <tr>
+      <td>
+        <a href="https://travis-ci.com/daveio/daveio.github.io/branches" rel="nofollow">
+          <img src="https://travis-ci.com/daveio/daveio.github.io.svg?branch=master" alt="daveio.github.io master branch build status">
+        </a>
+      </td>
       <td>
         <a href="https://travis-ci.com/daveio/braindump.dave.io/branches" rel="nofollow">
           <img src="https://travis-ci.com/daveio/braindump.dave.io.svg?branch=master" alt="braindump.dave.io master branch build status">
